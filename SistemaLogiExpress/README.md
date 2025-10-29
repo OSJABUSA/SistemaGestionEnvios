@@ -1,18 +1,24 @@
-## Getting Started
+Nombre del Proyecto:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+    Sistema de Gestión de Envíos LogiExpress
 
-## Folder Structure
+Integrantes del Equipo:
 
-The workspace contains two folders by default, where:
+    Alvaro Fontalvo
+    Christian Almanza
+    Mauricio Montes
+    Oscar Buelvas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Descripción:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    Diseñar un software que gestione la logística de envío a nivel nacional e internacional con modalidades de trasnporte terrestre, aéreo y marítimo que permita registrar el envío segun su modalidad.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+    El software de la empresa permitrá:
 
-## Dependency Management
+    1. Registrar envíos según su modalidad
+    2. Calcular costos automáticamente
+    3. Estimar tiempos de entrega
+    4. Generar reportes y seguimiento
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+instrucciones:
+
